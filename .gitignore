@@ -26,4 +26,3 @@ __pycache__
 *-env.json
 .envrc
 .DS_Store
-local-setup.sh
